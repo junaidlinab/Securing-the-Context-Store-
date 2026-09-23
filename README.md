@@ -60,3 +60,4 @@ python -m spacy download en_core_web_lg
 python presidio_pii_detection.py
 ```
 Author: Junaid Ahmed
+ Contact: junaid.linab@gmail.com
